@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>maven-web-app</finalName>
+		<finalName>infinity-jeep-production</finalName>
 		
 		<plugins>
 			<plugin>
