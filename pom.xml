@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://35.178.48.94:8081/repository/tesla-frontend-release-repository/</url>
+	      <url>http://http://13.40.114.157:8081/repository/infinity-jeep-repo-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://35.178.48.94:8081/repository/tesla-frontend-snapshots-repository/</url>
+	      <url>http://http://13.40.114.157:8081/repository/infinity-jeep-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
