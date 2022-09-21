@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://http://http://18.170.45.221:8081/repository/samsungfold8/</url>
+	      <url>http://http://http://18.170.45.221:8081/repository/tesla-frontend-release-repository/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://http://18.170.45.221:8081/repository/samsungfold8-snapshort/</url>
+	      <url>http://http://http://18.170.45.221:8081/repository/tesla-frontend-snapshots-repository/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
