@@ -22,7 +22,7 @@ stage('6approvalgate'){
     input message: 'Application ready for deployment, Please review and approve'
         
     }
-    
+/*    
 stage('7deploy2production'){
     sh "sleep 50"
   deploy adapters: [tomcat9(credentialsId: 'tomcat-credentials', path: '', url: 'http://18.134.150.107:8080/')], contextPath: null, war: 'target/*war' 
@@ -33,3 +33,4 @@ stage('8emailNotification'){
 emailext body: '''Hi All
  Please check the bluild status''', recipientProviders: [buildUser(), developers(), contributor(), requestor()], subject: 'build status', to: 'tarixdream@gmail.com, '}
 }
+*/
